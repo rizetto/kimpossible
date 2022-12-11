@@ -1,0 +1,517 @@
+* {
+  margin: 0rem;
+}
+
+.box1 {
+  width: auto;
+  height: 200px;
+}
+.fixed {
+  position: fixed;
+  width: 20rem;
+  height: auto;
+  left: 65rem;
+  top: 13rem;
+}
+
+.image1 {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+  position: relative;
+}
+.title1 {
+  font-size: 70px;
+  font-style: bold;
+  color: white;
+  position: absolute;
+  top: 15rem;
+  left: 13rem;
+}
+.american {
+  font-size: 40px;
+  color: white;
+  position: absolute;
+  top: 33rem;
+  left: 7rem;
+}
+.spanish {
+  font-size: 40px;
+  color: white;
+  position: absolute;
+  top: 33rem;
+  left: 40rem;
+}
+.japanese {
+  font-size: 40px;
+  color: white;
+  position: absolute;
+  top: 33rem;
+  left: 70rem;
+}
+.Discript1 {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 55rem;
+  left: 10rem;
+  right: 30rem;
+  text-align: justify;
+  line-height: 30px;
+}
+
+.line1 {
+  width: auto;
+  height: 4px;
+  background-color: red;
+  position: relative;
+  top: 25.3rem;
+}
+body {
+  background: rgb(255, 255, 255);
+}
+a {
+  color: inherit;
+}
+.Constitution {
+  font-size: 45px;
+  color: black;
+  position: absolute;
+  top: 47rem;
+  left: 10rem;
+}
+
+.line2 {
+  width: 56.7%;
+  height: 10px;
+  background-color: red;
+  position: absolute;
+  right: 10rem;
+  left: 10rem;
+
+  top: 108rem;
+}
+.line3 {
+  width: auto;
+  height: 4px;
+  background-color: black;
+  position: absolute;
+  right: 0rem;
+  left: 0rem;
+
+  top: 112.3rem;
+}
+.americanEra {
+  font-size: 80px;
+  color: white;
+  position: absolute;
+  top: 128rem;
+  left: 33rem;
+}
+.image2 {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+  position: relative;
+  top: 75rem;
+}
+.line4 {
+  width: auto;
+  height: 4px;
+  background-color: red;
+  position: absolute;
+  right: 0rem;
+  left: 0rem;
+
+  top: 150.5rem;
+}
+.americanDisc {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 165rem;
+  left: 10rem;
+  right: 30rem;
+  text-align: justify;
+  line-height: 30px;
+}
+
+.PensionadoAct {
+  font-size: 45px;
+  color: black;
+  position: absolute;
+  top: 160rem;
+  left: 10rem;
+}
+.americanvid {
+  position: absolute;
+
+  top: 200rem;
+  left: 10rem;
+}
+.publicEdu {
+  font-size: 45px;
+  color: black;
+  position: absolute;
+  top: 230rem;
+  left: 10rem;
+}
+/* position: fixed;
+top: 200px;
+left: 200px; */
+.pbdisc {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 235rem;
+  left: 10rem;
+  right: 30rem;
+  text-align: justify;
+  line-height: 35px;
+}
+.line5 {
+  width: 56.7%;
+  height: 10px;
+  background-color: red;
+  position: absolute;
+  right: 30rem;
+  left: 10rem;
+
+  top: 299rem;
+}
+.line6 {
+  width: auto;
+  height: 4px;
+  background-color: black;
+  position: absolute;
+  right: 0rem;
+  left: 0rem;
+
+  top: 305rem;
+}
+.spanishEra {
+  font-size: 80px;
+  color: white;
+  position: absolute;
+  top: 321rem;
+  left: 34rem;
+}
+.imgspanish {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+  position: relative;
+  top: 230rem;
+}
+.line7 {
+  width: auto;
+  height: 4px;
+  background-color: red;
+  position: absolute;
+  right: 0rem;
+  left: 0rem;
+
+  top: 343.3rem;
+}
+.spansh {
+  font-size: 45px;
+  color: black;
+  position: absolute;
+  top: 350rem;
+  left: 10rem;
+}
+.spansdisc {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 360rem;
+  left: 10rem;
+  right: 30rem;
+  text-align: justify;
+  line-height: 35px;
+}
+.ispanyol {
+  position: absolute;
+  width: 45rem;
+  height: auto;
+  top: 410rem;
+  left: 10rem;
+}
+
+.line8 {
+  width: 100%;
+  height: 102px;
+  background-color: red;
+  position: fixed;
+  top: 40.2rem;
+}
+.spanishdisc {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 437rem;
+  left: 10rem;
+  right: 30rem;
+  text-align: justify;
+  line-height: 35px;
+}
+.line9 {
+  width: 56.7%;
+  height: 10px;
+  background-color: red;
+  position: absolute;
+  right: 30rem;
+  left: 10rem;
+
+  top: 490rem;
+}
+.line10 {
+  width: auto;
+  height: 4px;
+  background-color: black;
+  position: absolute;
+  right: 0rem;
+  left: 0rem;
+  top: 495rem;
+}
+.japanconstit {
+  font-size: 80px;
+  color: white;
+  position: absolute;
+  top: 511rem;
+  left: 34rem;
+}
+.japaneseimg {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+  position: relative;
+  top: 382.3rem;
+}
+.line11 {
+  width: auto;
+  height: 4px;
+  background-color: red;
+  position: absolute;
+  right: 0rem;
+  left: 0rem;
+
+  top: 533.3rem;
+}
+.thejapanese {
+  font-size: 45px;
+  color: black;
+  position: absolute;
+  top: 540rem;
+  right: 30rem;
+  left: 10rem;
+}
+.japandisc {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 550rem;
+  left: 10rem;
+  right: 30rem;
+  text-align: justify;
+  line-height: 35px;
+}
+.japanvid {
+  position: absolute;
+  width: 45rem;
+  height: auto;
+  top: 589rem;
+  left: 10rem;
+}
+.notejapan {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 615rem;
+  left: 10rem;
+  right: 30rem;
+  text-align: justify;
+  line-height: 35px;
+}
+.line12 {
+  width: 56.7%;
+  height: 10px;
+  background-color: red;
+  position: absolute;
+  right: 30rem;
+  left: 10rem;
+
+  top: 639rem;
+}
+.return {
+  font-size: 20px;
+  color: black;
+  position: absolute;
+  top: 645rem;
+  left: 10rem;
+  right: 30rem;
+  text-align: justify;
+  line-height: 35px;
+}
+.line14 {
+  width: 100%;
+  height: 9px;
+  background-color: black;
+  position: fixed;
+  top: 40.2rem;
+}
+.line13 {
+  width: 100%;
+  height: 20rem;
+  background-color: red;
+  position: absolute;
+  right: auto;
+  left: auto;
+
+  top: 660rem;
+}
+.line15 {
+  width: 100%;
+  height: 9px;
+  background-color: black;
+  position: absolute;
+  right: auto;
+  left: auto;
+
+  top: 659.5rem;
+}
+.about {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 665rem;
+  left: 7rem;
+  right: auto;
+}
+.author {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 670rem;
+  left: 7rem;
+  right: 30rem;
+}
+.Rohana {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 670rem;
+  left: 13rem;
+  right: 30rem;
+}
+.Czar {
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 668rem;
+  left: 13rem;
+  right: 30rem;
+}
+.php{
+  position: absolute;
+  width: 7rem;
+  top: 663rem;
+  left: 40rem;
+}
+.US{
+  position: absolute;
+  width: 7rem;
+  top: 663rem;
+  left: 50rem;
+}
+.ispanya{
+  position: absolute;
+  width: 7rem;
+  top: 663rem;
+  left: 60rem;
+}
+.jpnlogo{
+  position: absolute;
+  width: 7rem;
+  top: 665rem;
+  left: 70rem;
+}
+.aboutcont{
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 665rem;
+  left: 13rem;
+  right: auto;
+}
+.czarpic{
+  position: absolute;
+  border-radius: 50%;
+  width: 7rem;
+  top: 672rem;
+  left: 13rem;
+}
+.rohanapic{
+  position: absolute;
+  border-radius: 50%;
+  width: 7rem;
+  top: 672rem;
+  left: 22rem;
+}
+.rph{
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  top: 675rem;
+  left: 40rem;
+  right: 30rem;
+}
+.weblogo{
+  position: fixed;
+  width: 4rem;
+  height: auto;
+  left: 1rem;
+  top: 1rem;
+}
+.desk{
+  position: absolute;
+  font-size: 30px;
+  color: white;
+  width: 100%;
+  height: auto;
+  left: 68rem;
+  top: 1rem;
+}
+.Constit{
+  position: fixed;
+  font-size: 30px;
+  color: white;
+  width: auto;
+  top: 42.5rem;
+  left: 1rem;
+
+}
+.logs{
+  position: fixed;
+  width: 4rem;
+  height: auto;
+  left: 87rem;
+  top: 41.5rem;
+}
+.update{
+  position: absolute;
+  font-size: 15px;
+  color: white;
+  width: auto;
+  left: 85rem;
+  top: 675rem;
+}
+.rphs{
+  position: fixed;
+  font-size: 30px;
+  color: red;
+  width: 100%;
+  height: auto;
+  left: 68rem;
+  top: 1rem;
+}
